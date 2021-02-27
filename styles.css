@@ -1,0 +1,20 @@
+a:hover{
+  color: #1687a7;
+}
+
+body{
+  background-color: #fbaccc;
+  font-size: 22px;
+  font-family: cursive;
+}
+
+h1{
+  text-align: center;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  background-color: none;
+  border-width: 5px;
+}
